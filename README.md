@@ -12,7 +12,7 @@ Instalação
 
 Faça o clone do repositório:
 ```
-git clone https://github.com/seuusername/XSSniper.git
+git clone https://github.com/Marrogrigues/XSSniper.git
 ```
 Torne o script executável:
 ```
